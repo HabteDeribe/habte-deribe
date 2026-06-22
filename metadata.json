@@ -1,0 +1,8 @@
+{
+  "name": "H-Ethio-land",
+  "description": "An integrated AI Urban Land Monitoring system, Municipal Command Center, Inspector field log, and Property Sales and Rental Marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
